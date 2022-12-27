@@ -2,6 +2,7 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://felixroos.github.io/pattern-diary",
+  base: "/pattern-diary",
   author: "Felix Roos",
   desc: "This is my blog where I post musical or visual patterns",
   title: "PatternDiary",
