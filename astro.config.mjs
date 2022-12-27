@@ -8,6 +8,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   site: "https://felixroos.github.io/pattern-diary",
+  base: '/pattern-diary',
   integrations: [
     tailwind({
       config: {
