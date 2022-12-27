@@ -1,3 +1,9 @@
+# pattern-diary
+
+When it is finished, this repo could be used as a template to start a musical and / or visual microblog for [strudel](https://strudel.tidalcycles.org/) patterns.
+
+It is based on AstroPaper, whose README now follows..
+
 # AstroPaper 📄
 
 ![AstroPaper](public/astropaper-og.jpg)
